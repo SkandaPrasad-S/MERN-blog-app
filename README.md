@@ -23,6 +23,32 @@ You will need Node.js installed on your system. You can download it from here: h
    ```
 5. Open http://localhost:8080 in your browser to see the site.
 
+
+### React app
+
+6. Open a new terminal window/tab.
+
+7. Navigate to the `client/` directory:
+
+```bash
+cd ../client
+```
+
+8. Install dependencies:
+
+```bash
+npm install
+```
+
+9. Start the React development server:
+
+```bash
+npm start
+```
+
+The React client should now be accessible at `http://localhost:3001`.
+
+
 ### Running Tests
 There are currently no tests included in this project. However, if you would like to write tests, you can use Jest or other testing frameworks supported by React.
 
