@@ -15,8 +15,11 @@ node_modules/
 .DS_Store
 .env.local
 .env.development.local
-.env.test.local
+.env.test.localtr
 .env.production.local
+.env
+api/.env
+client/.env
 
 npm-debug.log*
 yarn-debug.log*
